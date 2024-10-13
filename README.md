@@ -1,10 +1,10 @@
-# Welcome to Dragon Solutions!
+# Welcome to Nexis Systems!
 
 ![Full Stack Developers](https://img.shields.io/badge/Full_Stack_Developers-%3C%2F%3E-brightgreen)
 
 ## About Us
 
-We are Dragon Solutions, a team of passionate Full Stack Developers dedicated to delivering innovative and scalable web applications. Our diverse expertise allows us to tackle complex challenges and create state-of-the-art solutions tailored to our clients' needs.
+We are Nexis Systems, a team of passionate Full Stack Developers dedicated to delivering innovative and scalable web applications. Our diverse expertise allows us to tackle complex challenges and create state-of-the-art solutions tailored to our clients' needs.
 
 ## Our Skills
 
