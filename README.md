@@ -64,23 +64,23 @@ We are Dragon Solutions, a team of passionate Full Stack Developers dedicated to
 
 ## Socials
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JGm7uujrJJ)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dragons)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yykdcdXEBP)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nexis-Systems2024)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/comingsoon)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/dragonsolutions)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/Nexis-Systems)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/comingsoon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dragonsolutions.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Nexis-Systems2024.com)
 
 Thank you for visiting our GitHub profile! Feel free to explore our repositories and reach out if you're interested in collaborating or learning more about our work.
 
 ## Dragon Solutions Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dragons&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexis-Systems2024&show_icons=true&theme=radical)
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dragons&theme=dark&hide_border=false)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nexis-Systems2024&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexis-Systems2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/dragons/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nexis-Systems2024/count.svg)
