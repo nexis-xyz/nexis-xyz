@@ -4,7 +4,7 @@
 
 ## About Me
 
-Im a 17 year old Developer that is a FullStack
+Im a 18 year old Developer that is a FullStack
 
 ## Our Skills
 
